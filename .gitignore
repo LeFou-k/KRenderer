@@ -1,0 +1,6 @@
+scenes/
+.idea/
+.vs/
+CMakeSettings.json
+*.exr
+out/
