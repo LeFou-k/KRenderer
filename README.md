@@ -100,7 +100,7 @@ All of the algorithms above pass the test in nori.
 
 ### Table
 
-![table_mis](https://lk-image-bed.oss-cn-beijing.aliyuncs.com/images/Table.png)
+![table_mis](https://lk-image-bed.oss-cn-beijing.aliyuncs.com/images/table_mis.png)
 
 ## Furthermore
 
