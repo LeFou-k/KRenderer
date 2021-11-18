@@ -108,6 +108,7 @@ Despite the features mentioned above, there are also other features to be accomp
 
 - BVH acceleration using SAH method
 - Add Intel Embree acceleration library
+- Texture system
 - Hierarchical sample warping and Image Based Lighting
 - Specialized light source sampling despite mesh defined area light
 - Extend BRDF to complete BSDF
